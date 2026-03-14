@@ -14,7 +14,7 @@ draft = true
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/linc2427"
+url = "https://github.com/Mqdd27"
 
 [[menu.main]]
 name = "Home"
@@ -37,6 +37,6 @@ url = "/tags"
 weight = 4
 
 [[menu.main]]
-name = "Flask"
-url = "https://flask.mqdd.cloud"
+name = "Git"
+url = "https://git.mqdd.cloud"
 weight = 5
