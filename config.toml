@@ -1,0 +1,42 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "📙 Mqdd Personal Website"
+theme="archie"
+copyright = "© Mqdd"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+draft = true
+[params]
+	mode="auto"
+	useCDN=false
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/Mqdd27"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "Git"
+url = "https://git.mqdd.my.id"
+weight = 5

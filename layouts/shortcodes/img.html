@@ -1,0 +1,15 @@
+<figure class="center-img">
+<center>
+  <img
+    src="{{ .Get "src" }}"
+    alt="{{ .Get "alt" }}"
+    title="{{ .Get "title" }}"
+  >
+</center>
+
+  {{ with .Get "title" }}
+  <figcaption style="font-size:0.9em; opacity:0.7; margin-top:5px;">
+    {{ . }}
+  </figcaption>
+  {{ end }}
+</figure>

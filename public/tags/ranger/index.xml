@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ranger on 📙 Mqdd Blog Posts</title>
+    <title>ranger on 📙 Mqdd Personal Website</title>
     <link>/tags/ranger/</link>
-    <description>Recent content in ranger on 📙 Mqdd Blog Posts</description>
+    <description>Recent content in ranger on 📙 Mqdd Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mqdd</copyright>
-    <lastBuildDate>Tue, 30 Jan 2024 02:41:45 +0700</lastBuildDate>
-    <atom:link href="/tags/ranger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 02:41:45 +0700</lastBuildDate><atom:link href="/tags/ranger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ranger File Manager</title>
       <link>/posts/ranger/</link>
       <pubDate>Tue, 30 Jan 2024 02:41:45 +0700</pubDate>
+      
       <guid>/posts/ranger/</guid>
-      <description>Ranger FM Ranger merupakan terminal based program yang berfungsi sebagai file manager sebgaimana. Pada tutorial ini saya menggunakan Ranger pada WSL di Windows 11 dengan distro Ubuntu. Ranger juga tersedia pada repository lain seperti Arch Repo, dnf, dan nix-pkg.&#xA;Ada beberapa fitur yang tidak dapat berjalan pada WSL contohnya seperti Image Preview hal ini dikarenakan image preview membutuhkan X-Server/Display server seperti halnya di linux.&#xA;Pada blog post ini saya ingin menunjukkan cara membuka program windows dari ranger pada WSL.</description>
+      <description>Ranger FM   Ranger merupakan terminal based program yang berfungsi sebagai file manager sebgaimana. Pada tutorial ini saya menggunakan Ranger pada WSL di Windows 11 dengan distro Ubuntu. Ranger juga tersedia pada repository lain seperti Arch Repo, dnf, dan nix-pkg.
+Ada beberapa fitur yang tidak dapat berjalan pada WSL contohnya seperti Image Preview hal ini dikarenakan image preview membutuhkan X-Server/Display server seperti halnya di linux.
+Pada blog post ini saya ingin menunjukkan cara membuka program windows dari ranger pada WSL.</description>
     </item>
+    
   </channel>
 </rss>
