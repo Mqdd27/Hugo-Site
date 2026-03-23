@@ -1,6 +1,6 @@
 +++
 title = 'Movies 2026'
-draft = false
+draft = true
 date = "2026-03-14T19:16:39Z"
 tags = ["movies", "recommendation", "life"]
 description = 'Ini adalah beberapa Film yang saya lihat sepanjang 2026 to keep me sane'
@@ -64,3 +64,15 @@ To be fair saya kurang ingat tentang film ini. By just that point it means that 
 Jalan cerita dari film ini hampir mirip lah dengan Love Letter, it is more focused on someone who still can't moved on with their past partner. Di film ini karakter utamanya sebelumnya memiliki seorang pasangan yang dimana si pasangannya ini meninggal duluan karena sakit, ketika mereka masih berhubungan satu sama lain mereka sering berkomunikasi dengan cassets tape, Which it does not exists anymore. So i think the goals of the main character is to fulfill his ex partner dream to go to the Australia (which is kind of weird).
 
 What i don't like about the movie is pemeran utamanya ini kan sudah punya pasangan yang dimana pasangannya yang sekarang ini adalah teman dari ex partnernya. Menurut saya kalau kamu sudah punya pasangan dan sudah menikah dan masih memikirkan ex partner is kind of fucked up, it is hurting your current partner, but idk it is just my opinion. Film ini mirip lah sama love letter tapi di film ini yang menurut saya yang kurang ajar adalah main characternya karena gk bisa move on wkwkkw 🤣.
+
+6. My Tomorrow Your Yesterday (2016)
+
+Film ini mungkin juga salah satu yang terkenal diantara film-film yang pernah saya lihat, to be fair i forgot that i've watched this move because setiap saya menonton selalu saya review di OneNote, and i don't find this movie on the lists, saya ingat pernah lihat film ini karena ada beberapa scene yang masih membekas di saya.
+
+Film ini menceritakan tentang seorang siswa laki-laki yang kind of nerdy looking and he is never experience in a relationship, at the beginnong of he move he met this girl who is intrest him, dia try to approach her and dia berkenalan lah disana. Tapi pas diakhir converstion si wanita ini bertanya mengapa dia (karakter utama) tertarik dengannya and she said it silently so the main character didn't hear it. But basically this movie was kind of like forget me not that they have some sort of ability that doesn't make sense wkwkkw. In short the ability was they experience different time line eacch other he is couple of day ahead and she is couple of days behind.
+
+I would rate this movie 8.5 out of 10. I think that this movie was better than forget me not they even have the same "Ability". But this movie was executed better because it has ups and downs during the relationship executed better than forget me not.
+
+7. Be With You (2017)
+
+THIS IS THE BEST MOVIE I'VE EVER WATCH. At first i thought that i've watched the wring film because i got this recommended through ChatGPT. It says that it is a Japanse Movie, it is but there are a lot of version of it like i've watch the Korean version.

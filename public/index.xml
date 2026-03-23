@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>📙 Mqdd Personal Website</title>
+    <title>About Author on 📙 Mqdd Personal Website</title>
     <link>/</link>
-    <description>Recent content on 📙 Mqdd Personal Website</description>
+    <description>Recent content in About Author on 📙 Mqdd Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mqdd</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 19:16:39 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Movies 2026</title>
-      <link>/posts/movies/</link>
-      <pubDate>Sat, 14 Mar 2026 19:16:39 +0000</pubDate>
+      <title>We Help Business Grow</title>
+      <link>/homepage/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/movies/</guid>
-      <description>Ini merupakan list film-film yang saya lihat sepanjang awal hingga pertengahan tahun 2026. The reason why I&amp;rsquo;ve watch these films are to keep me Sane in this cruel world. Dari list film yang saya lihat tidak semua film saya rekomendasikan karena mungkin selera masing-masing orang berbeda-beda antar satu sama lain. So this is just my personal Opinion about the films, this is just subjective rating&amp;hellip;
- My Rainy Days (2005)    My Rainy Days (2005)   Ini adalah film pertama yang saya lihat di awal tahun 2026.</description>
+      <guid>/homepage/work/</guid>
+      <description>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.</description>
+    </item>
+    
+    <item>
+      <title>Our Difference</title>
+      <link>/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homepage/about/</guid>
+      <description>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,</description>
     </item>
     
     <item>
@@ -35,8 +43,8 @@ Pada blog post ini saya ingin menunjukkan cara membuka program windows dari rang
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Me   Nama Saya Ahmad Miqdad, saya merupakan mahasiswa prodi Teknik Telekomunikasi Politeknik Elektronika Negeri Surabaya (PENS). Sekarang saya bekerja sebagai IT Staff di PT.Indoteknik Dotcom Gemilang. Pekerjaan saya sehari-hari adalah sebagai Odoo Developer dan juga IT Support. You can see my work on my mirror git repos here: Mirror Git Repos 😁😁😁
-Work Experience  IT Staff/Support (2025 - Now)  Experience  Tukar Guling Odoo 14 Custom Models Peserta Penanggulangan Keadaan Darurat (PKD) Ke-108 Bandar Udara Juanda Surabaya Program Kreativitas Mahasiswa (PKM) Vokasi 2023 - Karsa Cipta Kerja Praktik PT.</description>
+      <description>Me   Nama Saya Ahmad Miqdad, saya merupakan mahasiswa prodi Teknik Telekomunikasi Politeknik Elektronika Negeri Surabaya (PENS). Sekarang saya bekerja sebagai IT Staff di PT.Indoteknik Dotcom Gemilang. Pekerjaan saya sehari-hari adalah sebagai Odoo Developer dan juga IT Support.
+Work Experience  IT Staff/Support (2025 - Now)  Experience  Fixcomart Odoo Deployment, Development, and Maintenance Indoteknik Odoo Development &amp;amp; Maintenance Peserta Penanggulangan Keadaan Darurat (PKD) Ke-108 Bandar Udara Juanda Surabaya Program Kreativitas Mahasiswa (PKM) Vokasi 2023 - Karsa Cipta Kerja Praktik PT.</description>
     </item>
     
     <item>
@@ -66,6 +74,15 @@ Instalasi WSL dapat dilihat pada dokumentasi dari Microsoft.</description>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/homepage/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/homepage/test/</guid>
       <description></description>
     </item>
     
